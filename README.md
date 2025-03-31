@@ -7,7 +7,7 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack. 🚀
 
 ### 📌 Sobre mim:
 - 🎯 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
-- 🔧 Gosto de criar soluções eficientes e bem estruturadas.
+- 🔧 Gosto de criar soluções eficientes e bem estruturadas, seguindo padrões de projeto.
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas 6/6.
 
 ### 💻 Tecnologias e Ferramentas:
@@ -27,7 +27,7 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack. 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="40"/>
 </p>
 
-### 📌 Tenho alguma experiência com:
+### 📌 Tenho conhecimento em:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="52" height="40"/>
