@@ -1,6 +1,6 @@
 ### Olá 👋, me chamo João Pedro Morais!
 
-Também conhecido como **JP**, e sou desenvolvedor web full stack. 🚀
+Também conhecido como **JP**, e sou desenvolvedor web full stack.
 &nbsp;
 &nbsp;
 <img align="right" src="https://github.com/joojp17/joojp17/blob/main/logo.png" width="250" alt="Link" title="Zelda :P">
