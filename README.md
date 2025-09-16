@@ -15,6 +15,7 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
 <p align="left" style="gap">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" title="SASS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" title="Javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="40" title="Typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52" height="40" title="PHP"/>
@@ -28,7 +29,7 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="52" height="40" title="NPM"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="40" title="Oracle PL/SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="52" height="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/expressjs-light.svg" width="52" height="40" title="Express"/>
 </p>
 
 ### 📌 Tenho conhecimento em:
