@@ -3,7 +3,7 @@
 Também conhecido como **JP**, e sou desenvolvedor web full stack.
 &nbsp;
 &nbsp;
-<img align="right" src="https://github.com/joojp17/joojp17/blob/main/logo.png" width="250" alt="Link" title="Zelda :P">
+<img align="right" src="https://github.com/joojp17/joojp17/blob/main/logo.jpg" width="250" alt="Link" title="Zelda :P">
 
 ### 📌 Sobre mim:
 - 🎯 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
