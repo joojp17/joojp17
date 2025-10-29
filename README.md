@@ -8,7 +8,7 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
 ### 📌 Sobre mim:
 - 🎯 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 - 🔧 Gosto de criar soluções eficientes e bem estruturadas, seguindo padrões de projeto.
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando MBA em Engenharia de Software.
 
 ### 💻 Tecnologias e Ferramentas:
 ### 🌟 Principais:
