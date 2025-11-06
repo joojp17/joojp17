@@ -10,6 +10,10 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
 - 🔧 Gosto de criar soluções eficientes e bem estruturadas, seguindo padrões de projeto.
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Rio Preto, cursando MBA em Engenharia de Software pela USP ESALQ.
 
+<a href="https://www.linkedin.com/in/joao-pedro-morais-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge" height="30" alt="linkedin logo"  />
+</a>
+
 ### 💻 Tecnologias e Ferramentas (stacks):
 ![Static Badge](https://img.shields.io/badge/html5-E4512D?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css&logoColor=white)
@@ -42,18 +46,3 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
 ![Static Badge](https://img.shields.io/badge/copilot-%23000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/cloudflare-%23F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joojp17&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joojp17&layout=compact&theme=dark" height="160"/>
-</p>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-pedro-morais-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/channels/@me/260113492294631426/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-</div>
