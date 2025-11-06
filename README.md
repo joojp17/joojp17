@@ -1,4 +1,4 @@
-### Olá 👋, me chamo João Pedro Morais!
+### Olá 👋, me chamo João Pedro!
 
 Também conhecido como **JP**, e sou desenvolvedor web full stack.
 &nbsp;
@@ -8,32 +8,39 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
 ### 📌 Sobre mim:
 - 🎯 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 - 🔧 Gosto de criar soluções eficientes e bem estruturadas, seguindo padrões de projeto.
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando MBA em Engenharia de Software.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Rio Preto, cursando MBA em Engenharia de Software pela USP ESALQ.
 
-### 💻 Tecnologias e Ferramentas:
-### 🌟 Principais:
-<p align="left" style="gap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" title="SASS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="52" height="40" title="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="52" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" title="Javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="40" title="Typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="52" height="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52" height="40" title="NextJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="40" title="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="52" height="40" title="NPM"/>
-  <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/expressjs-light.svg" width="52" height="40" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="52" height="40" title="Cypress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="52" height="40" title="Jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="52" height="40" title="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52" height="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="40" title="Oracle PL/SQL"/>
-</p>
+### 💻 Tecnologias e Ferramentas (stacks):
+![Static Badge](https://img.shields.io/badge/html5-E4512D?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/scss-BF4080?style=for-the-badge&logo=sass&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tailwindcss-00BCFF?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/shadcnui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Static Badge](https://img.shields.io/badge/primeng-%23DD0031?style=for-the-badge&logo=primeng&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-gray?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/angular-C40835?style=for-the-badge&logo=angular&logoColor=white)
+![Static Badge](https://img.shields.io/badge/react-555555?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/node.js-5DAE47?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/npm-C50000?style=for-the-badge&logo=npm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![Static Badge](https://img.shields.io/badge/redux-7247B6?style=for-the-badge&logo=redux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cypress-3D6C63?style=for-the-badge&logo=cypress&logoColor=white)
+![Static Badge](https://img.shields.io/badge/jest-963B56?style=for-the-badge&logo=jest&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sourcetree-%230052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Static Badge](https://img.shields.io/badge/eslint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Static Badge](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/pm2-%232B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Static Badge](https://img.shields.io/badge/copilot-%23000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/cloudflare-%23F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 📊 GitHub Stats:
 <p align="left">
