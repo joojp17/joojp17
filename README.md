@@ -30,6 +30,8 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="40" title="Oracle PL/SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/xandemon/developer-icons/icons/expressjs-light.svg" width="52" height="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="52" height="40" title="Cypress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="52" height="40" title="Cypress"/>
 </p>
 
 ### 📌 Tenho conhecimento em:
