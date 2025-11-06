@@ -35,12 +35,6 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="52" height="40" title="Oracle PL/SQL"/>
 </p>
 
-### 📌 Tenho conhecimento em:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="52" height="40" title="Laravel"/>
-</p>
-
 ## 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=joojp17&show_icons=true&theme=dark" height="160"/>
