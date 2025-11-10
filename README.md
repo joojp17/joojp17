@@ -8,7 +8,7 @@ Também conhecido como **JP**, e sou desenvolvedor web full stack.
 ### 📌 Sobre mim:
 - 🎯 Sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 - 🔧 Gosto de criar soluções eficientes e bem estruturadas, seguindo padrões de projeto.
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Rio Preto, cursando MBA em Engenharia de Software pela USP ESALQ.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC, cursando MBA em Engenharia de Software pela USP ESALQ.
 
 <a href="https://www.linkedin.com/in/joao-pedro-morais-dev/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge" height="30" alt="linkedin logo"  />
